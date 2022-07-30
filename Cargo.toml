@@ -1,0 +1,12 @@
+[package]
+name = "croftsoft"
+version = "0.1.0"
+authors = ["David Wallace Croft <david@croftsoft.com>"]
+description = "Placeholder for crates.io"
+edition = "2021"
+homepage = "http://www.croftsoft.com/"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/david-wallace-croft/croftsoft"
+
+[dependencies]
