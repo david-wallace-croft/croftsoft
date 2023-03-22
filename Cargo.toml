@@ -1,14 +1,14 @@
 [package]
 name = "croftsoft"
-version = "0.10.0-SNAPSHOT"
-authors = ["David Wallace Croft <david@croftsoft.com>"]
+version = "0.10.0"
+authors = ["David Wallace Croft <david@CroftSoft.com>"]
 description = "Re-export of com-croftsoft-* crates"
 edition = "2021"
-homepage = "https://www.croftsoft.com/"
+homepage = "https://www.CroftSoft.com/"
 license = "MIT"
-publish = false
+publish = true
 readme = "README.md"
 repository = "https://github.com/david-wallace-croft/croftsoft"
 
 [dependencies]
-com-croftsoft-core = "0.9.0"
+com-croftsoft-core = "0.10.0"
