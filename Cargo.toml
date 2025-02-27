@@ -1,13 +1,14 @@
 [package]
 authors = ["David Wallace Croft <david@CroftSoft.com>"]
 description = "Re-export of com-croftsoft-* crates"
-edition = "2021"
+edition = "2024"
 homepage = "https://www.CroftSoft.com/"
 license = "MIT"
 name = "croftsoft"
 publish = false
 readme = "README.md"
 repository = "https://github.com/david-wallace-croft/croftsoft"
+rust-version = "1.85.0"
 version = "0.10.2-SNAPSHOT"
 
 [dependencies]
